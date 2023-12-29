@@ -2,6 +2,8 @@
 
 Este es un simple juego de memorama construido con HTML, CSS y JavaScript. El objetivo del juego es emparejar las tarjetas.
 
+Pruebalo! https://luisrhomo.github.io/Memorama/
+
 ## Características
 
 - **12 Tarjetas:** El juego consta de 12 tarjetas que se distribuyen en el tablero.
